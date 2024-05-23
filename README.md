@@ -1,2 +1,2 @@
 # HealthCard
-Smart Cards (Smart Cards Project, 3nd year, 2st sem)
+https://85.122.23.20/~cbirjoveanu/web/Sc/Health%20Card.pdf
